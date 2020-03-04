@@ -89,6 +89,9 @@ header a {color:#fff;} header a:hover {color:#80CDF1;}
 
 /* Botones */
 .btn-azul-medio {background-color:#0AA1C6; color:#fff; border-radius:30px; font-size:30px; padding:8px 38px;} .btn-azul-medio:hover {background-color:#EF4723; color:#fff;}
+.ver-mas {
+	margin: 0 auto;
+}
 
 /* Sumary (ver más) */
 
